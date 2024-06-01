@@ -1,9 +1,18 @@
 - 👋 Hi, I’m @VyktorCr
+- 
 - 👀 I’m interested in ...
+- 
+- Front end Developent O_O
+- Motion Graphics
+- 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- Alura Latam program ONE
+- 
 - 📫 How to reach me ...
+- 💌😄
+- 
 - 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 
 <!---
